@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/chat-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/chat-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/chat-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/chat-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/chat-socket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/chat-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/chat-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlineChat-master/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
